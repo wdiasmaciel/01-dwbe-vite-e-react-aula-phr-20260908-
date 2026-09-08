@@ -23,3 +23,15 @@ npm -v
 ```bash
 npm create vite@latest
 ```
+
+```bash
+cd react-aula
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
