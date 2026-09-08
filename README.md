@@ -7,3 +7,15 @@ sudo apt update
 ```bash
 sudo apt install -y nodejs
 ```
+
+```bash
+node -v
+```
+
+```bash
+npm install -g npm@11.19.0
+```
+
+```bash
+npm -v
+```
